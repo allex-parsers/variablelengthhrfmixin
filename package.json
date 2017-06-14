@@ -1,0 +1,23 @@
+{
+  "name": "allex_variablelengthhrfmixinparser",
+  "version": "1.0.0",
+  "description": "AllexJS mixin for variable length parsers that optionally have a Header, Records, and Footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hers.rs:allex_parsers/variablelengthhrfmixin.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "variable",
+    "length",
+    "hrf",
+    "mixin",
+    "parser"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
